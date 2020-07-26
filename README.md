@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project :performing_arts:
-Analysis for Louise on different factors impacting theater campaign success. This will help provide context as to why her play *Fever* did not reach its funding goal 
+This project was created for Louise in order to give context as to why her play *Fever* did not reach its funding goal. It includes detailed analysis on different factors impacting theater campaign success.  
 
 ### Purpose
 The purpose of this project is to provide analysis and direction on how a campaign's launch date and funding goal impact its success.
